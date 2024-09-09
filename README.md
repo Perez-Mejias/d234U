@@ -1,0 +1,1 @@
+The attached tables contain the 230Th results, separated by stalagmites, from Ejulve Cave. These data are used to analyze the factors influencing δ234U values in the paper titled 'Climate controls on speleothem initial 234U/238U ratios in midlatitude climate over two glacial cycles.'"
